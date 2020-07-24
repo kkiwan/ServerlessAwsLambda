@@ -27,7 +27,7 @@ provider:
 # you can overwrite defaults here
 #  stage: dev
   region: ap-northeast-2
-  profile: qqiwan@nate.com
+  # profile: qqiwan@nate.com
 
 # you can add statements to the Lambda function's IAM Role here
 #  iamRoleStatements:
